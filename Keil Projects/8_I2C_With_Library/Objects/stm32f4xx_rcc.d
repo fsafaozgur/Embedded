@@ -1,18 +1,18 @@
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\src\stm32f4xx_rcc.c
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm4.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h
-.\objects\stm32f4xx_rcc.o: .\RTE\Device\STM32F407VG\stm32f4xx_conf.h
-.\objects\stm32f4xx_rcc.o: .\RTE\_Target_1\RTE_Components.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_i2c.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h
-.\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h
+./objects/stm32f4xx_rcc.o: inc\stm32f4xx_rcc.c inc\stm32f4xx_rcc.h \
+  inc\stm32f4xx.h \
+  C:\Users\iclal\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm4.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\stdint.h \
+  C:\Users\iclal\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h \
+  C:\Users\iclal\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h \
+  C:\Users\iclal\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h \
+  C:\Users\iclal\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h \
+  inc\system_stm32f4xx.h inc\stm32f4xx_conf.h inc\stm32f4xx_adc.h \
+  inc\stm32f4xx_crc.h inc\stm32f4xx_dbgmcu.h inc\stm32f4xx_dma.h \
+  inc\stm32f4xx_exti.h inc\stm32f4xx_flash.h inc\stm32f4xx_gpio.h \
+  inc\stm32f4xx_i2c.h inc\stm32f4xx_iwdg.h inc\stm32f4xx_pwr.h \
+  inc\stm32f4xx_rtc.h inc\stm32f4xx_sdio.h inc\stm32f4xx_spi.h \
+  inc\stm32f4xx_syscfg.h inc\stm32f4xx_tim.h inc\stm32f4xx_usart.h \
+  inc\stm32f4xx_wwdg.h inc\misc.h inc\stm32f4xx_cryp.h \
+  inc\stm32f4xx_hash.h inc\stm32f4xx_rng.h inc\stm32f4xx_can.h \
+  inc\stm32f4xx_dac.h inc\stm32f4xx_dcmi.h inc\stm32f4xx_fsmc.h
