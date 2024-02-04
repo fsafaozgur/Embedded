@@ -1,7 +1,7 @@
 
 # Gömülü Sistemler Yazılım Temelleri ve Mikrodenetleyici Örnek Kodları
 
-Mikrodenetleyici peripheral kullanımlarına verilen örnek kodlar, eğitim amaçlı olduğu için tek dosya içerisine yazılmıştır. Olması gereken tasarım; 
+Mikrodenetleyici peripheral kullanımlarına örnek olarak verilen kodların tasarımı; 
 
 -İşlemciden bağımsız çalışabilen, bir Main fonksiyonun yer aldığı dosya (main.c)
 
@@ -11,4 +11,4 @@ Mikrodenetleyici peripheral kullanımlarına verilen örnek kodlar, eğitim ama�
 
 vb.
 
-şeklinde modüler olan bir tasarım yapılır ve böylece işlemci değiştirilmesi gerektiği zaman yalnızca "bsp.h" içerisinde yer alan tanımlamalar(define), adresler(peripheral register adress vb.) ile "bsp.c" içerisinde yer alan ayarların(configuration), init işlemlerinin ve kullanılan fonksiyonların kod bloklarının yeni işlemciye göre tekrar yazılmasının yeterli olduğu bir tasarım yapılmış olur.
+şeklinde modüler olan bir tasarım yapılmıştır ve böylece işlemci değiştirilmesi gerektiği zaman, yalnızca "bsp.h" içerisinde yer alan tanımlamalar(define), adresler(peripheral register adress vb.) ile "bsp.c" içerisinde yer alan ayarların(configuration), init işlemlerinin ve kullanılan fonksiyonların kod bloklarının yeni işlemciye göre tekrar yazılmasının yeterli olduğu bir tasarım yapılmıştır.
